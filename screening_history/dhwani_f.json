@@ -1,0 +1,131 @@
+{
+  "child": "dhwani",
+  "gender": "f",
+  "records": [
+    {
+      "id": "20260418_102821",
+      "timestamp": "2026-04-18T10:28:21.821196",
+      "age_months": 13,
+      "overall_score": 82.9,
+      "risk_level": "Very High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 89.1,
+          "item_count": 10,
+          "flag_items": [
+            "A2",
+            "A5",
+            "A6",
+            "A7",
+            "A11",
+            "A12",
+            "A15",
+            "A18",
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 100.0,
+          "item_count": 6,
+          "flag_items": [
+            "A3",
+            "A4",
+            "A8",
+            "A9",
+            "A13",
+            "A17"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 75.0,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 0,
+        "A2": 1,
+        "A3": 1,
+        "A4": 1,
+        "A5": 1,
+        "A6": 1,
+        "A7": 1,
+        "A8": 1,
+        "A9": 1,
+        "A10": 1,
+        "A11": 1,
+        "A12": 1,
+        "A13": 1,
+        "A14": 1,
+        "A15": 1,
+        "A16": 0,
+        "A17": 1,
+        "A18": 1,
+        "A19": 1,
+        "A20": 1
+      }
+    },
+    {
+      "id": "20260418_120836",
+      "timestamp": "2026-04-18T12:08:36.581451",
+      "age_months": 14,
+      "overall_score": 65.6,
+      "risk_level": "High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 40.0,
+          "item_count": 10,
+          "flag_items": [
+            "A1",
+            "A7",
+            "A15",
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 15.2,
+          "item_count": 6,
+          "flag_items": [
+            "A4"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A16",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 1,
+        "A2": 0,
+        "A3": 0,
+        "A4": 1,
+        "A5": 0,
+        "A6": 0,
+        "A7": 1,
+        "A8": 0,
+        "A9": 0,
+        "A10": 1,
+        "A11": 0,
+        "A12": 0,
+        "A13": 0,
+        "A14": 1,
+        "A15": 1,
+        "A16": 1,
+        "A17": 0,
+        "A18": 0,
+        "A19": 1,
+        "A20": 1
+      }
+    }
+  ]
+}

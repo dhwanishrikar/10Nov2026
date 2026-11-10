@@ -1,0 +1,72 @@
+{
+  "child": "abcd",
+  "gender": "m",
+  "records": [
+    {
+      "id": "20260810_185926",
+      "timestamp": "2026-08-10T18:59:26.732479",
+      "age_months": 48,
+      "overall_score": 89.5,
+      "risk_level": "Very High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 100.0,
+          "item_count": 10,
+          "flag_items": [
+            "A1",
+            "A2",
+            "A5",
+            "A6",
+            "A7",
+            "A11",
+            "A12",
+            "A15",
+            "A18",
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 84.8,
+          "item_count": 6,
+          "flag_items": [
+            "A4",
+            "A8",
+            "A9",
+            "A13",
+            "A17"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 47.5,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 1,
+        "A2": 1,
+        "A3": 0,
+        "A4": 1,
+        "A5": 1,
+        "A6": 1,
+        "A7": 1,
+        "A8": 1,
+        "A9": 1,
+        "A10": 1,
+        "A11": 1,
+        "A12": 1,
+        "A13": 1,
+        "A14": 0,
+        "A15": 1,
+        "A16": 0,
+        "A17": 1,
+        "A18": 1,
+        "A19": 1,
+        "A20": 1
+      }
+    }
+  ]
+}

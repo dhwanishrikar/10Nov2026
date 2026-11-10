@@ -1,0 +1,48 @@
+{
+  "child": "DUNI",
+  "gender": "f",
+  "records": [
+    {
+      "id": "20260412_133946",
+      "timestamp": "2026-04-12T13:39:46.357316",
+      "age_months": 35,
+      "overall_score": 73.4,
+      "risk_level": "High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 21.8,
+          "item_count": 5,
+          "flag_items": [
+            "A1"
+          ]
+        },
+        "Communication": {
+          "percentage": 26.2,
+          "item_count": 4,
+          "flag_items": [
+            "A8"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 1,
+          "flag_items": [
+            "A10"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 1,
+        "A2": 0,
+        "A3": 0,
+        "A4": 0,
+        "A5": 0,
+        "A6": 0,
+        "A7": 0,
+        "A8": 1,
+        "A9": 0,
+        "A10": 1
+      }
+    }
+  ]
+}

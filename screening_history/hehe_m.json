@@ -1,0 +1,195 @@
+{
+  "child": "hehe",
+  "gender": "m",
+  "records": [
+    {
+      "id": "20260412_135357",
+      "timestamp": "2026-04-12T13:53:57.310990",
+      "age_months": 24,
+      "overall_score": 17.2,
+      "risk_level": "Low",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 10.9,
+          "item_count": 10,
+          "flag_items": [
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 0.0,
+          "item_count": 6,
+          "flag_items": []
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A16",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 0,
+        "A2": 0,
+        "A3": 0,
+        "A4": 0,
+        "A5": 0,
+        "A6": 0,
+        "A7": 0,
+        "A8": 0,
+        "A9": 0,
+        "A10": 1,
+        "A11": 0,
+        "A12": 0,
+        "A13": 0,
+        "A14": 1,
+        "A15": 0,
+        "A16": 1,
+        "A17": 0,
+        "A18": 0,
+        "A19": 1,
+        "A20": 1
+      }
+    },
+    {
+      "id": "20260412_135558",
+      "timestamp": "2026-04-12T13:55:58.152979",
+      "age_months": 24,
+      "overall_score": 94.7,
+      "risk_level": "Very High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 100.0,
+          "item_count": 10,
+          "flag_items": [
+            "A1",
+            "A2",
+            "A5",
+            "A6",
+            "A7",
+            "A11",
+            "A12",
+            "A15",
+            "A18",
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 69.7,
+          "item_count": 6,
+          "flag_items": [
+            "A8",
+            "A9",
+            "A13",
+            "A17"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A16",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 1,
+        "A2": 1,
+        "A3": 0,
+        "A4": 0,
+        "A5": 1,
+        "A6": 1,
+        "A7": 1,
+        "A8": 1,
+        "A9": 1,
+        "A10": 1,
+        "A11": 1,
+        "A12": 1,
+        "A13": 1,
+        "A14": 1,
+        "A15": 1,
+        "A16": 1,
+        "A17": 1,
+        "A18": 1,
+        "A19": 1,
+        "A20": 1
+      }
+    },
+    {
+      "id": "20260418_111344",
+      "timestamp": "2026-04-18T11:13:44.723371",
+      "age_months": 35,
+      "overall_score": 100.0,
+      "risk_level": "Very High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 100.0,
+          "item_count": 10,
+          "flag_items": [
+            "A1",
+            "A2",
+            "A5",
+            "A6",
+            "A7",
+            "A11",
+            "A12",
+            "A15",
+            "A18",
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 100.0,
+          "item_count": 6,
+          "flag_items": [
+            "A3",
+            "A4",
+            "A8",
+            "A9",
+            "A13",
+            "A17"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A16",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 1,
+        "A2": 1,
+        "A3": 1,
+        "A4": 1,
+        "A5": 1,
+        "A6": 1,
+        "A7": 1,
+        "A8": 1,
+        "A9": 1,
+        "A10": 1,
+        "A11": 1,
+        "A12": 1,
+        "A13": 1,
+        "A14": 1,
+        "A15": 1,
+        "A16": 1,
+        "A17": 1,
+        "A18": 1,
+        "A19": 1,
+        "A20": 1
+      }
+    }
+  ]
+}

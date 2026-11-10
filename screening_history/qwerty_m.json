@@ -1,0 +1,69 @@
+{
+  "child": "qwerty",
+  "gender": "m",
+  "records": [
+    {
+      "id": "20260802_165623",
+      "timestamp": "2026-08-02T16:56:23.323339",
+      "age_months": 48,
+      "overall_score": 86.8,
+      "risk_level": "Very High",
+      "domain_scores": {
+        "Social Interaction": {
+          "percentage": 71.8,
+          "item_count": 10,
+          "flag_items": [
+            "A1",
+            "A2",
+            "A11",
+            "A12",
+            "A15",
+            "A18",
+            "A20"
+          ]
+        },
+        "Communication": {
+          "percentage": 53.0,
+          "item_count": 6,
+          "flag_items": [
+            "A8",
+            "A13",
+            "A17"
+          ]
+        },
+        "Behavioral Patterns": {
+          "percentage": 100.0,
+          "item_count": 4,
+          "flag_items": [
+            "A10",
+            "A14",
+            "A16",
+            "A19"
+          ]
+        }
+      },
+      "item_scores": {
+        "A1": 1,
+        "A2": 1,
+        "A3": 0,
+        "A4": 0,
+        "A5": 0,
+        "A6": 0,
+        "A7": 0,
+        "A8": 1,
+        "A9": 0,
+        "A10": 1,
+        "A11": 1,
+        "A12": 1,
+        "A13": 1,
+        "A14": 1,
+        "A15": 1,
+        "A16": 1,
+        "A17": 1,
+        "A18": 1,
+        "A19": 1,
+        "A20": 1
+      }
+    }
+  ]
+}
